@@ -105,10 +105,19 @@ The scatter plot above represents the number of routes that pass through each De
 
 **Distribution**: Stops with fewer routes, shown in cooler colours and smaller sizes, tend to be more peripheral or on less busy lines. The central areas and more populated zones have stops with greater connectivity.
 
+## Plot 5
 
+Next, let’s analyze the service frequency by examining the timing intervals between trips during different parts of the day. It will help us understand peak and off-peak operational strategies, which are crucial for managing commuter flow efficiently. Let’s calculate and visualize these intervals:
 
+<img width="555" alt="Screenshot 2025-03-21 at 3 12 40 PM" src="https://github.com/user-attachments/assets/61362a12-79fa-4ed6-b04b-221e1f9d45e2" />
 
+The bar chart above displays the average interval between trips on the Delhi Metro during different parts of the day: morning, afternoon, and evening. This data provides insight into the service frequency and how it is adjusted based on the expected demand throughout the day. Key findings are:
 
+**Morning**: Shorter intervals between trips are observed in the morning hours, which likely corresponds to the morning rush hour when commuters are heading to work or school.
+
+**Afternoon**: The intervals increase slightly during the afternoon, which may indicate a reduction in demand after the morning peak.
+
+**Evening**: In the evening, intervals decrease again, likely to accommodate the evening rush hour as people return home.
 
 
 
