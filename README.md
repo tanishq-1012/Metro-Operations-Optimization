@@ -179,3 +179,5 @@ By implementing these adjustments, Delhi Metro can potentially improve operation
 
 1. **Clone the repository**: git clone https://github.com/tanishq-1012/metro-optimization.git
 cd metro-optimization
+
+2. **Install requried dependencies**: pip install pandas matplotlib seaborn
