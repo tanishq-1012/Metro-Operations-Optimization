@@ -119,8 +119,31 @@ The bar chart above displays the average interval between trips on the Delhi Met
 
 **Evening**: In the evening, intervals decrease again, likely to accommodate the evening rush hour as people return home.
 
+## Plot 6
 
+Now, let’s calculate the number of trips and the available capacity per time interval. It will give us a basic understanding of how service levels vary throughout the day. We’ll classify the intervals as:
 
+**Early Morning**: Before 6 AM
+**Morning Peak**: 6 AM to 10 AM
+**Midday**: 10 AM to 4 PM
+**Evening Peak**: 4 PM to 8 PM
+**Late Evening**: After 8 PM
+
+Let’s calculate the supply in terms of trips during these time intervals using the stop_times data:
+
+<img width="645" alt="Screenshot 2025-03-21 at 3 13 07 PM" src="https://github.com/user-attachments/assets/d876aa77-4677-429f-9d3f-b69fe56bb022" />
+
+The bar chart displays the number of trips scheduled for each time interval in the Delhi Metro system. From this visualization, we can observe the following:
+
+1. **Early Morning**: There is a relatively low number of trips, indicating less demand or fewer scheduled services during these hours.
+
+2.**Morning Peak**: There is a significant increase in the number of trips compared to the early morning, likely due to morning commute hours as people travel to work or school.
+
+3.**Midday**: The number of trips remains high, perhaps sustaining the morning rush or due to other midday travel needs.
+
+4.**Evening Peak**: This period sees a slight decrease compared to midday but remains one of the busier times, probably reflecting the evening commute.
+
+5.**Late Evening**: The number of trips drops again, but remains higher than in the early morning, likely catering to people returning home late or involved in evening activities.
 
 
 
