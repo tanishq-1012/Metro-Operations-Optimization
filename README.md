@@ -167,5 +167,11 @@ The bar chart illustrates the original versus adjusted number of trips per time 
 
 By implementing these adjustments, Delhi Metro can potentially improve operational efficiency and customer satisfaction, especially during peak hours.
 
+## Technologies Used
 
+1. Pandas (Data manipulation and analysis)
+
+2. Matplotlib & Seaborn (Data visualization)
+
+3. Datetime (Time handling and conversion)
 
