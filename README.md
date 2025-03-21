@@ -175,3 +175,7 @@ By implementing these adjustments, Delhi Metro can potentially improve operation
 
 3. Datetime (Time handling and conversion)
 
+## Installation & Setup
+
+1. **Clone the repository**: git clone https://github.com/tanishq-1012/metro-optimization.git
+cd metro-optimization
