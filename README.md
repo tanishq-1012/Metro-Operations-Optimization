@@ -55,8 +55,19 @@ The dataset contains several files as follows:
 
 <img width="810" alt="Screenshot 2025-03-21 at 3 10 24 PM" src="https://github.com/user-attachments/assets/bf6630e1-86a7-40bf-b0b1-8e7fcc39ad7d" />
 
+## Plot 1
 
+Let's start by analyzing the routes and operations of Delhi Metro to understand how it operates. We'll start by:
 
+1. Plotting the geographical routes on map to visualize the network.
+
+2. Examining the frequency and scheduling of trips across different days of the week.
+
+3. Analyzing coverage by examining the distribution of stops and their connectivity.
+
+I’ll start by plotting the geographical paths of different routes on a map to visualize how the Delhi Metro covers the area:
+
+<img width="656" alt="Screenshot 2025-03-21 at 3 10 50 PM" src="https://github.com/user-attachments/assets/cf1e4c2d-0529-43b1-a83b-f55a4185d002" />
 
 
 
