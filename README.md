@@ -93,6 +93,23 @@ From the plot, we can see a widespread distribution, suggesting that the Delhi M
 
 The stops are fairly evenly spread, but there are denser clusters, which indicates areas with higher transit needs or central hubs that connect multiple lines.
 
+## Plot 4
+
+Now, let’s analyze the route complexity. I will analyze how many routes pass through each stop, which can highlight key transfer points and central hubs within the Delhi Metro network:
+
+<img width="656" alt="Screenshot 2025-03-21 at 3 12 08 PM" src="https://github.com/user-attachments/assets/47770690-e53f-4b95-ba95-d543348a426a" />
+
+The scatter plot above represents the number of routes that pass through each Delhi Metro stop. Stops are visualized in different colours and sizes based on the number of routes they connect, providing insights into the complexity of the network at various locations. Key observations are:
+
+**Hubs and Transfer Points**: Larger circles (in warmer colours) indicate stops where multiple routes intersect. These stops serve as major transfer points within the network, facilitating easier cross-city travel for passengers.
+
+**Distribution**: Stops with fewer routes, shown in cooler colours and smaller sizes, tend to be more peripheral or on less busy lines. The central areas and more populated zones have stops with greater connectivity.
+
+
+
+
+
+
 
 
 
