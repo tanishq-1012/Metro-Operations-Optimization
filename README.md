@@ -135,7 +135,7 @@ Let’s calculate the supply in terms of trips during these time intervals using
 
 The bar chart displays the number of trips scheduled for each time interval in the Delhi Metro system. From this visualization, we can observe the following:
 
-1. **Early Morning**: There is a relatively low number of trips, indicating less demand or fewer scheduled services during these hours.
+1.**Early Morning**: There is a relatively low number of trips, indicating less demand or fewer scheduled services during these hours.
 
 2.**Morning Peak**: There is a significant increase in the number of trips compared to the early morning, likely due to morning commute hours as people travel to work or school.
 
