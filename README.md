@@ -81,10 +81,17 @@ The bar chart illustrates the number of trips scheduled for each day of the week
 
 This finding suggests that the Delhi Metro strategically scales its operations based on the expected daily ridership, which likely peaks during weekdays due to work and school commutes.
 
+## Plot 3
 
+To further analyze the connectivity and effectiveness of the route strategy, I will analyze the distribution and connectivity of stops:
 
+<img width="656" alt="Screenshot 2025-03-21 at 3 11 36 PM" src="https://github.com/user-attachments/assets/ca6c75c0-4f5b-4d4f-8637-2ec9eae90b44" />
 
+The scatter plot above shows the geographical distribution of Delhi Metro stops. Each red dot represents a metro stop, and their distribution across the map illustrates how the stops cover different areas of Delhi.
 
+From the plot, we can see a widespread distribution, suggesting that the Delhi Metro provides good spatial coverage, allowing access to a broad area and facilitating efficient travel across the city.
+
+The stops are fairly evenly spread, but there are denser clusters, which indicates areas with higher transit needs or central hubs that connect multiple lines.
 
 
 
