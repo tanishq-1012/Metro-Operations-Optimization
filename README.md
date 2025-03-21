@@ -181,3 +181,35 @@ By implementing these adjustments, Delhi Metro can potentially improve operation
 cd metro-optimization
 
 2. **Install requried dependencies**: pip install pandas matplotlib seaborn
+
+## Data Files Used
+
+**agency.txt** - Metro agency details
+
+**calendar.txt** - Service schedules for different metro routes
+
+**routes.txt** - Route details including metro line names
+
+**shapes.txt** - Geographical coordinates of metro routes
+
+**stop_times.txt** - Stop arrival and departure times
+
+**stops.txt** - Metro stop locations
+
+**trips.txt** - Trip IDs and associated route information
+
+## Visualizations
+
+1.Metro Routes Coverage Map
+
+2.Number of Trips Per Day of the Week
+
+3.Metro Stops Distribution on a Map
+
+4.Routes per Stop Analysis
+
+5.Average Interval Between Trips by Time of Day
+
+6.Number of Trips per Time Interval
+
+7.Original vs Adjusted Number of Trips per Time Interval
