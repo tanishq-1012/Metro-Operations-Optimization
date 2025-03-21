@@ -213,3 +213,13 @@ cd metro-optimization
 6.Number of Trips per Time Interval
 
 7.Original vs Adjusted Number of Trips per Time Interval
+
+## Summary
+
+Metro Operations Optimization refers to the systematic process of enhancing the efficiency, reliability, and effectiveness of Metro services through various data-driven techniques and operational adjustments. Our approach to optimizing metro operations showcases how analyzing existing data can guide decisions in real-time scheduling adjustments, even in the absence of explicit passenger count data.
+
+
+
+
+
+
