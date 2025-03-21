@@ -145,10 +145,27 @@ The bar chart displays the number of trips scheduled for each time interval in t
 
 5.**Late Evening**: The number of trips drops again, but remains higher than in the early morning, likely catering to people returning home late or involved in evening activities.
 
+## Plot 7
 
+### Optimizing Operations to Reduce Overcrowding in Metro
 
+Now, as we have analyzed the dataset, let’s build a data-driven strategy to reduce the overcrowding in Delhi Metro. To reduce the overcrowding in the Delhi Metro, we can adjust train frequencies based on time interval analysis.
 
+We’ve already analyzed the number of trips during different time intervals, which provides a clear picture of the existing supply. By cross-referencing this data with inferred demand (e.g., crowd levels observed at platforms, as actual passenger data isn’t available), adjustments can be made. For instance, if certain time intervals like the morning or evening peaks show signs of overcrowding, increasing the number of trips or adjusting the timing of the trips could help alleviate this issue.
 
+Let’s start with refining the frequencies of trains during peak and off-peak hours based on the trip frequency analysis we performed earlier. I’ll create a hypothetical scenario where we adjust the frequencies during these times based on assumed passenger loads. An assumption here is that morning and evening peaks need a 20% increase in service, while midday and late evening might handle a 10% reduction without impacting passenger service negatively.
+
+Let’s calculate and visualize these adjustments:
+
+<img width="742" alt="Screenshot 2025-03-21 at 3 13 29 PM" src="https://github.com/user-attachments/assets/f3aaa770-2110-4a42-ba38-aadba49a68cc" />
+
+The bar chart illustrates the original versus adjusted number of trips per time interval for the Delhi Metro, based on our hypothetical adjustments to better align service levels with inferred demand:
+
+**Morning and Evening Peaks**: We increased the number of trips by 20%, anticipating higher demand during these hours. This adjustment aims to reduce overcrowding and improve passenger comfort and service reliability.
+
+**Midday and Late Evening**: We decreased the trips by 10%, assuming that the demand drops during these times, allowing for more efficient use of resources without significantly impacting service quality.
+
+By implementing these adjustments, Delhi Metro can potentially improve operational efficiency and customer satisfaction, especially during peak hours.
 
 
 
