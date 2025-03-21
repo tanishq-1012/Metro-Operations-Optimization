@@ -31,3 +31,35 @@ Adjust trip frequencies based on demand during peak and off-peak hours.
 
 Compare original vs. optimized schedules for efficiency improvements.
 
+## Dataset
+
+The dataset contains several files as follows:
+
+1.**Agency**: Information about the Delhi Metro Rail Corporation, including name, URL, and contact details.
+
+2.**Calendar**: Service schedules delineating the operation days (weekdays, weekends) and valid dates for these schedules.
+
+3.**Routes**: Details of metro routes, including short and long names, type of route, and descriptions.
+
+4.**Shapes**: Geographical coordinates of routes, providing the precise paths taken by the metro lines.
+
+5.**Stop Times**: Timetables for each trip indicating arrival and departure times at specific stops.
+
+6.**Stops**: Locations of metro stops, including latitude and longitude coordinates.
+
+7.**Trips**: Information linking trips to routes, including details like trip identifiers and associated route IDs.
+
+<img width="810" alt="Screenshot 2025-03-21 at 3 08 57 PM" src="https://github.com/user-attachments/assets/2ea5e85f-f180-469c-b391-4c389f975a8e" />
+
+<img width="810" alt="Screenshot 2025-03-21 at 3 09 32 PM" src="https://github.com/user-attachments/assets/160ba775-f96c-403d-99af-4f8e8d26572e" />
+
+<img width="810" alt="Screenshot 2025-03-21 at 3 10 24 PM" src="https://github.com/user-attachments/assets/bf6630e1-86a7-40bf-b0b1-8e7fcc39ad7d" />
+
+
+
+
+
+
+
+
+
