@@ -69,6 +69,28 @@ I’ll start by plotting the geographical paths of different routes on a map to 
 
 <img width="656" alt="Screenshot 2025-03-21 at 3 10 50 PM" src="https://github.com/user-attachments/assets/cf1e4c2d-0529-43b1-a83b-f55a4185d002" />
 
+The map visualization shows the geographical paths of the Delhi Metro routes. Each line (identified by a unique colour) represents the path of a different route defined in the shapes dataset. This visual helps to understand how the Metro covers the geographical area of Delhi, demonstrating the connectivity and spread of the network.
+
+## Plot 2
+
+Next, I will examine the frequency and scheduling of trips across different days of the week by analyzing the calendar and trip data:
+
+<img width="656" alt="Screenshot 2025-03-21 at 3 11 11 PM" src="https://github.com/user-attachments/assets/c8e08be6-9387-4ec3-a40a-800fd9c3ce8e" />
+
+The bar chart illustrates the number of trips scheduled for each day of the week for the Delhi Metro. As we can see, the number of trips from Monday to Friday is consistent, indicating a stable weekday schedule designed to accommodate regular commuter traffic. In contrast, the trips decrease slightly on Saturday and even more on Sunday, reflecting lower demand or a reduced service schedule on weekends.
+
+This finding suggests that the Delhi Metro strategically scales its operations based on the expected daily ridership, which likely peaks during weekdays due to work and school commutes.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
